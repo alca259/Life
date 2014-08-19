@@ -1,0 +1,16 @@
+[
+{
+  "modid": "alca259_life",
+  "name": "Life",
+  "description": "Tree and fruit for minecraft",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Alca259"],
+  "credits": "The Forge and FML guys, for making this example",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
